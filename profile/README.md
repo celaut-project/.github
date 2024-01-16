@@ -9,4 +9,4 @@ It is based on the principles:
 
 <br>
 
-[To get a better understanding of this concept, let's take a look at...](https://github.com/celaut-project/celaut-architecture/blob/master/README.md)
+[To gain a more comprehensive understanding of this concept, let's delve into the architecture repository.](https://github.com/celaut-project/celaut-architecture/blob/master/README.md)
